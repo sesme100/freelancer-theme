@@ -3,9 +3,10 @@ layout: default
 modal-id: 1
 date: 2014-07-18
 img: cabin.png
-alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+title: Copilot Studio MVP
+alt: Copilot Studio MVP highlight
+project-date: 2026
+client: Microsoft Community Presence
+category: Recognition
+description: 공개된 행사 페이지와 커뮤니티 자료에서 Mina Jin은 Microsoft Copilot Studio MVP이자 MCT로 확인됩니다. 그래서 홈페이지도 일반 프리랜서 포트폴리오보다 AI Agent 교육과 실전 적용을 전면에 두는 구성이 가장 자연스럽습니다.
 ---

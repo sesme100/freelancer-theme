@@ -3,9 +3,10 @@ layout: default
 modal-id: 4
 date: 2014-07-15
 img: game.png
-alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+title: Hands-On Agent Labs
+alt: AI agent workshop highlight
+project-date: 2026
+client: Public Event Promotions
+category: Training
+description: 공개 행사 설명에는 입문, 중급, 고급 트랙에서 참가자가 Copilot Agent를 직접 만들어보는 흐름이 반복해서 등장합니다. 그 실전형 교육 스타일을 메인 카피의 중심으로 옮겼습니다.
 ---

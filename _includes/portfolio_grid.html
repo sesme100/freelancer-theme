@@ -3,8 +3,9 @@
   <div class="container portfolio-flex-grid">
     <div class="row">
       <div class="col-lg-12 text-center">
-        <h2>Portfolio</h2>
+        <h2>Highlights</h2>
         <hr class="star-primary">
+        <p class="section-lead">공개적으로 확인 가능한 MVP 활동, 커뮤니티 리딩, 행사 운영 이력을 바탕으로 메인 화면의 이야기를 구성했습니다.</p>
       </div>
     </div>
     <div class="portfolio-flex-row">
@@ -18,6 +19,10 @@
           </div>
           <img src="img/portfolio/{{ post.img }}" class="img-responsive" alt="{{ post.alt }}">
         </a>
+        <div class="portfolio-copy">
+          <h3>{{ post.title }}</h3>
+          <p>{{ post.category }}</p>
+        </div>
       </div>
       {% endfor %}
     </div>

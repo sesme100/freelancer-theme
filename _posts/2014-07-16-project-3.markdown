@@ -3,9 +3,10 @@ layout: default
 modal-id: 3
 date: 2014-07-16
 img: circus.png
-alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+title: Bootcamp Organizer
+alt: Global Power Platform Bootcamp Seoul highlight
+project-date: February 20-21, 2026
+client: Global Power Platform Bootcamp Seoul
+category: Event Design
+description: Seoul 2026 부트캠프 페이지는 Mina Jin을 운영진으로 소개하며, 커뮤니티 기반의 몰입형 Power Platform 학습과 실습형 랩 중심의 브랜드 이미지를 보여줍니다.
 ---

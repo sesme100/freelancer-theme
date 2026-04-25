@@ -3,9 +3,10 @@ layout: default
 modal-id: 5
 date: 2014-07-14
 img: safe.png
-alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+title: MCT Community Work
+alt: Korea MCT Summit highlight
+project-date: 2025
+client: Korea MCT Community
+category: Ecosystem
+description: Korea MCT 커뮤니티 게시물은 Mina Jin을 Summit 운영진 중 한 사람으로 언급합니다. 이는 개인 기술력뿐 아니라 커뮤니티를 성장시키는 리더십을 홈페이지의 핵심 메시지로 삼기에 충분한 근거가 됩니다.
 ---
